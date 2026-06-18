@@ -1,1 +1,1 @@
-console.log("Savannah Game iniciado");
+console.log("JS funcionando");
