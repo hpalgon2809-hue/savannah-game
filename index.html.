@@ -7,9 +7,12 @@
 </head>
 <body>
 
-<h1>Savannah Game 🦁</h1>
-<p>Si ves esto, la web funciona</p>
+<div id="ui">
+  <h1>Savannah Game 🦁</h1>
+  <p id="info">Cargando mundo...</p>
+</div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
 <script src="script.js"></script>
 
 </body>
